@@ -19,7 +19,8 @@ const Chatroom = ({ username }) => {
 
   // useEffect get io
   useEffect(() => {
-    socketRef.current = io.connect("http://localhost:4040");
+    // socketRef.current = io.connect("http://localhost:4040");
+    socketRef.current = io.connect("https://messaging-nodejs-app.herokuapp.com");
     socketRef.current.emit("user connection", username);
 
     // on chat message
