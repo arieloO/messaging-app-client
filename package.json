@@ -2,7 +2,7 @@
   "name": "messaging-app-client",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://vercel.com/arieloo/messaging-app-client",
+  "homepage": "https://localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
