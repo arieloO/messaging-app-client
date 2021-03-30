@@ -54,7 +54,7 @@ const Chatroom = ({ username }) => {
       // socketRef.current.emit("user disconnect", username);
       socketRef.current.disconnect();
     };
-  }, [setChat, username]);
+  }, [setChat, username, typingUser]);
 
   // sroll to chat bottom function ?
 
