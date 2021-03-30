@@ -84,7 +84,7 @@ input {
   margin: 8px;
   padding: 10px;
   border-radius: 0.5em;
-  box-shadow: black 0px 0px 0px 400px;
+  box-shadow: black 0px 0px 0px 20px;
   background-color: transparent;
 }
 
@@ -134,9 +134,17 @@ input {
 }
 
 #login-notes {
-  padding: 0 24px;
+  z-index: 1;
+  padding: 8px 24px;
+  margin: 8px;
+  border-radius: 0.5em;
+  box-shadow: black 0px 4px 0px 12px;
+  background-color: black;
   color: white;
-  z-index: 3;
+}
+
+#login-notes h4 {
+  margin: 0.4em 0;
 }
 
 /* CHATROOM STYLES */
