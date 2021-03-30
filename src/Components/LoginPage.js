@@ -37,7 +37,9 @@ const LoginPage = ({ username, setUsername }) => {
           <p>
             This chatroom is <b>not private</b> ! <br /> Beware not to share any
             personal information or private data.
+            </p>
             <hr />
+            <p>
             - Respect the laws of your country.
             <br />
             - Don't be a crap.
