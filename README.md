@@ -1,3 +1,11 @@
+# Messaging App Client
+
+Front-end interface made with react for my [messaging-app]https://messaging-app-client-kgvp0buv6-arieloo.vercel.app
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app) see instruction below to run it locally.
+Back-end was made with Node.js and Socket.io check the repo there : [messaging app server]https://github.com/arieloO/messaging-app-server
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
