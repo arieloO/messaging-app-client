@@ -26,4 +26,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-Check the [Create React App Repo](https://github.com/facebook/create-react-app) for more information.
+#### Check the [Create React App Repo](https://github.com/facebook/create-react-app) for more information.
